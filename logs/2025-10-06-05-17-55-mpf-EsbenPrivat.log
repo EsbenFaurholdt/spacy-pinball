@@ -1,0 +1,59 @@
+2025-10-06 05:17:55,694 : INFO : root : Loading config.
+2025-10-06 05:17:55,699 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-10-06 05:17:55,699 : INFO : ConfigProcessor : Loading config from file C:\Users\Esben\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2025-10-06 05:17:55,707 : INFO : ConfigProcessor : Loading config: C:\Users\Esben\mpf\Lib\site-packages\mpf\mpfconfig.yaml
+2025-10-06 05:17:55,708 : INFO : ConfigProcessor : Loading config from file C:\Users\Esben\documents\spacy-pinball\config\config.yaml.
+2025-10-06 05:17:55,708 : INFO : ConfigProcessor : Loading config: C:\Users\Esben\documents\spacy-pinball\config\config.yaml
+2025-10-06 05:17:55,709 : INFO : ConfigProcessor : Config file cache created: C:\Users\Esben\AppData\Local\Temp\649dd3b0c65d429db13333aa615dd828.mpf_cache
+2025-10-06 05:17:55,783 : INFO : ConfigProcessor : Loading config from file C:\Users\Esben\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2025-10-06 05:17:55,783 : INFO : ConfigProcessor : Loading config: C:\Users\Esben\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2025-10-06 05:17:55,783 : INFO : ConfigProcessor : Loading config from file C:\Users\Esben\documents\spacy-pinball\modes\attract\config\attract.yaml.
+2025-10-06 05:17:55,784 : INFO : ConfigProcessor : Loading config: C:\Users\Esben\documents\spacy-pinball\modes\attract\config\attract.yaml
+2025-10-06 05:17:55,784 : INFO : ConfigProcessor : Config file cache created: C:\Users\Esben\AppData\Local\Temp\93fbb297de428de1c36342e792831390.mpf_cache
+2025-10-06 05:17:55,785 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Esben\AppData\Local\Temp\94971f01d676c382b2bcfe11d8fdf0bd.mpf_cache
+2025-10-06 05:17:55,785 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Esben\AppData\Local\Temp\93fbb297de428de1c36342e792831390.mpf_cache
+2025-10-06 05:17:55,785 : INFO : ConfigProcessor : Loading config from file C:\Users\Esben\documents\spacy-pinball\modes\base\config\base.yaml.
+2025-10-06 05:17:55,786 : INFO : ConfigProcessor : Loading config: C:\Users\Esben\documents\spacy-pinball\modes\base\config\base.yaml
+2025-10-06 05:17:55,786 : INFO : ConfigProcessor : Config file cache created: C:\Users\Esben\AppData\Local\Temp\9a921e697cccf9dc15e696b68c732ce8.mpf_cache
+2025-10-06 05:17:55,786 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev11
+2025-10-06 05:17:55,786 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-10-06-05-17-55-mpf-EsbenPrivat.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Esben\\documents\\spacy-pinball\\logs\\2025-10-06-05-17-55-mpf-EsbenPrivat.log'}
+2025-10-06 05:17:55,786 : INFO : Machine : MPF path: C:\Users\Esben\mpf\Lib\site-packages\mpf
+2025-10-06 05:17:55,786 : INFO : Machine : Machine path: C:\Users\Esben\documents\spacy-pinball
+2025-10-06 05:17:55,786 : INFO : Machine : Platform: win32
+2025-10-06 05:17:55,786 : INFO : Machine : Python executable location: C:\Users\Esben\mpf\Scripts\python.exe
+2025-10-06 05:17:55,786 : INFO : Machine : Python version: 3.12.10 (64-bit)
+2025-10-06 05:17:55,788 : INFO : Machine : Initializing MPF...
+2025-10-06 05:17:55,861 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2025-10-06 05:17:55,878 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2025-10-06 05:17:55,878 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11', 'prev_value': None, 'change': True}
+2025-10-06 05:17:55,878 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2025-10-06 05:17:55,879 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.10', 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,066 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.26100-SP0', 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,066 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,066 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,066 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26100', 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,066 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,066 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\Esben\\documents\\spacy-pinball\\logs\\2025-10-06-05-17-55-mpf-EsbenPrivat.log', 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,066 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2025-10-06 05:17:56,073 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2025-10-06 05:17:56,073 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2025-10-06 05:17:56,073 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2025-10-06 05:17:56,083 : INFO : Mode.attract : Started. Priority: 10
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2025-10-06 05:17:56,083 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2025-10-06 05:17:56,083 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2025-10-06 05:18:35,393 : INFO : Machine : Shutting down...
+2025-10-06 05:18:35,393 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2025-10-06 05:18:35,397 : INFO : root : MPF run loop ended.
